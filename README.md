@@ -23,4 +23,4 @@ Data and analysis code accompanying the MA thesis **"ההשמט בצירוף ה�
 Please cite the thesis. License for code: MIT. Data files: CC BY 4.0 (author's tagging layers only).
 
 ## Changes
-- 2026-09-07 — *mivtza* (← *mivtza mekhirot*) and *mif'al* (← *mif'al ta'asiya*) removed from the inventory: on re-examination the surviving element kept its general sense and was applied to a new domain (semantic extension), so these are not cases of ellipsis. The inventory is now 45 cases; the reduced-vs-intact dataset never included them and is unchanged. Section references updated to the final thesis numbering.
+- 2026-09-06 — *mivtza* (← *mivtza mekhirot*) and *mif'al* (← *mif'al ta'asiya*) removed from the inventory: on re-examination the surviving element kept its general sense and was applied to a new domain (semantic extension), so these are not cases of ellipsis. The inventory is now 45 cases; the reduced-vs-intact dataset never included them and is unchanged. Section references updated to the final thesis numbering.
