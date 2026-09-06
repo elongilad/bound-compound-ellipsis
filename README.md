@@ -10,8 +10,8 @@ Data and analysis code accompanying the MA thesis **"ההשמט בצירוף ה�
 - `survey/survey_stats.py` — Wilson confidence intervals and population projections (thesis ch. 3).
 - `when-study/analysis_dataset.tsv` — the reduced-vs-intact compound dataset (phrase frequencies
   from the JPress historical newspaper archive; component frequencies from the NITE M1 lexeme list).
-- `when-study/regression.py` — the two-factor logistic regression (thesis §5.4.4.2).
-- `inventory/inventory_47.tsv` — the full inventory of 47 verified ellipsis cases (thesis appendix B).
+- `when-study/regression.py` — the two-factor logistic regression (thesis §7.2).
+- `inventory/inventory_45.tsv` — the full inventory of 45 verified ellipsis cases (thesis appendix A).
 
 ## Sources
 - JPress — Historical Jewish Press, National Library of Israel & Tel Aviv University (searches
@@ -21,3 +21,6 @@ Data and analysis code accompanying the MA thesis **"ההשמט בצירוף ה�
 
 ## Citation
 Please cite the thesis. License for code: MIT. Data files: CC BY 4.0 (author's tagging layers only).
+
+## Changes
+- 2026-09-07 — *mivtza* (← *mivtza mekhirot*) and *mif'al* (← *mif'al ta'asiya*) removed from the inventory: on re-examination the surviving element kept its general sense and was applied to a new domain (semantic extension), so these are not cases of ellipsis. The inventory is now 45 cases; the reduced-vs-intact dataset never included them and is unchanged. Section references updated to the final thesis numbering.

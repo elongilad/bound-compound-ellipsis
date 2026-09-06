@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Two-factor logistic regression (IRLS), Mann-Whitney and AUC for the
-reduced-vs-intact compound study (thesis section 5.4.4.2)."""
+reduced-vs-intact compound study (thesis section 7.2)."""
 import csv, math
 import numpy as np
 rows=[r for r in csv.DictReader(open('analysis_dataset.tsv'),delimiter='\t')]
